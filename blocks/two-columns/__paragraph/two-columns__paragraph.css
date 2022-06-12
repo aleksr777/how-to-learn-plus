@@ -1,0 +1,8 @@
+.two-columns__paragraph {
+	margin: 0;
+	padding: 0;
+}
+
+.two-columns__paragraph:not(:last-of-type) {
+	margin-bottom: 30px;
+}
